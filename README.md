@@ -1,9 +1,10 @@
 ![logo](https://github.com/rishikeshdev-code/rishikeshdev-code/blob/main/WhatsApp%20Image%202026-07-28%20at%204.36.31%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Rishikesh Dubey</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" width="400"src=""
 
 <h2># 💫 About Me:</h2>
-<img align="right" alt="Coding" width="400" src="">
+
 💻 I'm currently working on Full Stack Web Development projects and building responsive, user-friendly web applications.<br><br>🤝 I'm looking to collaborate on open-source projects, innovative web applications, and startup ideas.<br><br>💛 I'm looking for help with cloud deployment, system design, and advanced backend development.<br><br>🌱 I'm currently learning MERN Stack, Next.js, TypeScript, and DevOps to become a better Full Stack Developer.<br><br>💬 Ask me about HTML, CSS, JavaScript, React, Node.js, Express.js, MongoDB, Git, and Web Development.<br><br>⚡ Fun fact: I enjoy turning ideas into real websites and continuously learning new technologies to improve my development skills.
 
 
