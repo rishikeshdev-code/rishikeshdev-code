@@ -28,5 +28,24 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=rishikeshdev-code&icon=0&color=0)](https://visitcount.itsvg.in)
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/rishikeshdev-code/rishikeshdev-code/output/github-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/rishikeshdev-code/rishikeshdev-code/output/github-snake.svg">
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/rishikeshdev-code/rishikeshdev-code/output/github-snake.svg">
+</picture>
+
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
