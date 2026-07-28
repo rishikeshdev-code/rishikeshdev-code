@@ -709,8 +709,7 @@ Build scalable real-world products
 
 
 <!-- Public Repositories -->
-<img src="https://img.shields.io/github/repos/rishikeshdev-code?label=Repositories&style=for-the-badge&logo=github&color=8A2BE2">
-
+<img src="https://img.shields.io/github/public-repos/rishikeshdev-code?label=Repositories&style=for-the-badge&logo=github&color=8A2BE2">
 
 <!-- Stars Earned -->
 <img src="https://img.shields.io/github/stars/rishikeshdev-code?label=Stars&style=for-the-badge&logo=github&color=FFD700">
