@@ -1,4 +1,4 @@
-
+![logo](https://github.com/rishikeshdev-code/rishikeshdev-code/blob/main/WhatsApp%20Image%202026-07-28%20at%204.36.31%20PM.jpeg)
 <h1 align="center">Hi 👋, I'm Rishikesh Dubey</h1>
 <h2 align="center">A passionate Software Engineer from India</h2>
 <hr>
