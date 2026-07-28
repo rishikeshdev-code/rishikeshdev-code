@@ -740,19 +740,7 @@ Build scalable real-world products
 
 
 
-<h2 align="center">📈 Profile Views</h2>
 
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rishikeshdev-code&label=Profile%20Views&color=22D3EE&style=for-the-badge">
-
-</p>
 
 
 
